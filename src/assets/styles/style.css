@@ -1,4 +1,31 @@
-.heading{
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: #ffa400;
+    color: black;
+    border: #ffa400;
+    padding: 10px;
+    margin: 15px;
+    border: 4px;
+    align-items: center;
+}
+.line_1{
+    width: 500px;
+}
+
+.line_2{
+    width: 300px;
+    margin-top: 50px;
+}
+
+.box_2{
+    width: 100vw;
+    height: 100vh;
     background-color: blue;
-    padding-top: 50px;
+    margin-top: 20px;
+    border-right: 2px;
+}
+
+.box_3{
+    
 }
